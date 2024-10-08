@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a web blog application<br>🌱 I’m currently learning react, state managment, the intermediates of backend and more...<br>
+work on the desc
 
 
 ## 🌐 Socials:
