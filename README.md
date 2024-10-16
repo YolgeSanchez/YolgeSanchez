@@ -14,7 +14,7 @@ I’m a backend developer with 8 months of focused experience. My expertise lies
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YolgeSanchez&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div style="text-align: center;">
   
-<p>    </p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=YolgeSanchez&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![         ](https://github-readme-stats.vercel.app/api/top-langs/?username=YolgeSanchez&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 </div>
 
