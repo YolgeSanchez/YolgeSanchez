@@ -22,7 +22,7 @@ I’m a backend and frontend developer with 8 months of focused experience. My e
      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=YolgeSanchez&limit=5&theme=react&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=YolgeSanchez&limit=3&theme=react&combine_all_yearly_contributions=true)
 
 ---
 
