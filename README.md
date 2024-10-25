@@ -1,5 +1,5 @@
 # About Me:
-I’m a backend and frontend developer with 8 months of focused experience. My expertise lies in building efficient, scalable backend systems using JavaScript, TypeScript, Node.js, and MongoDB. I have experience working on both backend and frontend, enabling me to tackle full-stack challenges with confidence. Passionate about creating optimized solutions, I thrive in environments that demand problem-solving and collaboration.
+I’m a backend and frontend developer with 8 months of focused experience. My expertise lies in building efficient, scalable backend systems using JavaScript, TypeScript, Node.js, and MongoDB. I have experience working on both backend and frontend, enabling me to tackle full-stack challenges with confidence. I thrive in environments that demand problem-solving and collaboration.
 
 
 ## 🌐 Socials:
