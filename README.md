@@ -14,7 +14,10 @@ I’m a backend and frontend developer with 8 months of focused experience. My e
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) 
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=true)
@@ -29,3 +32,4 @@ I’m a backend and frontend developer with 8 months of focused experience. My e
 [![](https://visitcount.itsvg.in/api?id=YolgeSanchez&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
