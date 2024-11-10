@@ -1,7 +1,6 @@
 # About Me:
 I’m a Backend and Frontend developer with 9 months of focused experience. My expertise lies in building efficient, scalable backend systems using JavaScript, TypeScript, Node.js, and MongoDB/PostgreSQL. I have experience working on both Backend and Frontend, enabling me to tackle Full-Stack challenges with confidence. I thrive in environments that demand problem-solving and collaboration.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yolge2.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YolgeSanchez) 
 
