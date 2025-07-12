@@ -38,6 +38,7 @@ I’m a Backend and Frontend developer with 10 months of focused experience. My 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YolgeSanchez&theme=react&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
