@@ -2,7 +2,8 @@
 I’m a Backend and Frontend developer with 10 months of focused experience. My expertise lies in building efficient, scalable backend systems using JavaScript, TypeScript, Node.js, and MongoDB/PostgreSQL. I have experience working on both Backend and Frontend, enabling me to tackle Full-Stack challenges with confidence. I thrive in environments that demand problem-solving and collaboration.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yolge2.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YolgeSanchez) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yolge2.0) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YolgeSanchez) 
 
 ## 💻 Skills
 
@@ -35,15 +36,11 @@ I’m a Backend and Frontend developer with 10 months of focused experience. My 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-# 📊 Stats:
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YolgeSanchez&theme=react&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=YolgeSanchez&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
