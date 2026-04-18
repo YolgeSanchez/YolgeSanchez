@@ -38,13 +38,3 @@ I just love programming.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-
-## 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YolgeSanchez&theme=react&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YolgeSanchez&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
